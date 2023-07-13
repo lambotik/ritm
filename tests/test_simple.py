@@ -1,4 +1,4 @@
-from ritm.pages.simple_page import SimplePage
+from pages.simple_page import SimplePage
 
 
 class TestSimple:

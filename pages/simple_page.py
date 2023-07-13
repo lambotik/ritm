@@ -1,5 +1,5 @@
-from ritm.locators.locators import SimplePageLocators
-from ritm.pages.basepage import BasePage
+from locators.locators import SimplePageLocators
+from pages.basepage import BasePage
 
 
 class SimplePage(BasePage):
