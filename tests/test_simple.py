@@ -7,4 +7,3 @@ class TestSimple:
         test_elements.open()
         text = test_elements.check_buttons()
         assert text == 'You have done a right click'
-
